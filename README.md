@@ -11,7 +11,7 @@
 <li class="has-line-data" data-line-start="11" data-line-end="12">Über Postman GET befehl “Get Printer and Printer Tray” ausführen um alle Drucker und Druckerschubladen als json zu erhalten.</li>
 <li class="has-line-data" data-line-start="12" data-line-end="13">POST “Generate PDF and Print it automatically” ausführen um PDF zu generieren und es automatisch auszudrucken.</li>
 </ol>
-<p class="has-line-data" data-line-start="16" data-line-end="19">###API<br>
+<p class="has-line-data" data-line-start="16" data-line-end="19">### API<br>
 URL für GET: <a href="http://localhost:5000/printer">http://localhost:5000/printer</a><br>
 URL für POST: <a href="http://localhost:5000/pdf">http://localhost:5000/pdf</a></p>
 <p class="has-line-data" data-line-start="20" data-line-end="38">PrinterName | String: Aus Get Printer “PrinterName”<br>
